@@ -1,7 +1,7 @@
 module.exports = {
     HOST: 'localhost',
     USER: 'root',
-    PASSWORD: 'Aritra17@',
+    PASSWORD: null,
     DB: 'Social_media_db',
     dialect: 'mysql',
 
